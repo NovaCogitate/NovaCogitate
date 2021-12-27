@@ -1,5 +1,5 @@
-Hello, My name is Pedro. I am a freshly graduated student of Physical Engineering from Aveiro University. I am a machine learning afficionado.
+Hello, my name is Pedro Rodrigues, a somewhat fresh graduate in physical engineering from Aveiro University. I am a humble machine learning afficionado, however you might not be finding that here for a very long while. 
 
-This is my very incomplete github for now, I only have my Thesis and other presentations I did in Latex to show. You might be wondering where is the machine learning then, and in particular Python code etc.. Well it's being formated and they'll be public eventually. 
+I mostly have been working locally for most of my life and I never really finish my projects unfortunately or leave them in a state I would like to share with people. This needs to change so you might be suprised soon. I only have my Thesis and other presentations I did in Latex to show.
 
 Thank you for visiting. Please peer into everything freely.
