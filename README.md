@@ -1,5 +1,12 @@
-Hello, my name is Pedro Rodrigues, a graduate of physical engineering from Aveiro University in Sunny old Portugal. I am a humble machine learning afficionado. I just recently invested into a large system for machine learning. And you should start seeing some of my personal wacky projects here (These will stay private for a while). 
+Hello, I am Pedro Rodrigues. I hold a master's degree in physical engineering from Aveiro University in sunny old Portugal, where I was born and raised. 
 
-In addition to machine learning I also have laying around a lot of work for my thesis and previous projects. I mostly develop in python, and most deep learning I do is in pytorch and scikit-learn. I focus on computer vision for my work with the DKFZ. 
+I currently work as a machine learning researcher at the DKFZ, focusing mainly on generative AI through diffusion probabilistic models.  
 
-Thank you for visiting. Please peer into everything freely.
+I am a machine learning aficionado who is missing physics in his life, probably some sort of Stockholm syndrome; soon, I will have another publication in my GitHub focused on generative AI, and with that, my personal goal set around April 2022 would have been done.  
+
+When I was employed as a data scientist, I focused on NLP for market insights with large partners that I should not mention. 
+When I studied at Aveiro, I became a published author in particle physics.
+Paper 1: [link](https://arxiv.org/abs/1912.11882) 
+Paper 2: [link](https://arxiv.org/abs/2106.06425) 
+
+Sadly, I do not have much in my Github; I mostly code for a living, not exactly living to code. 
