@@ -8,8 +8,8 @@ When I was employed as a data scientist, I focused on NLP for market insights wi
 
 When I studied at Aveiro, I became a published author in particle physics.
   
-  Paper 1: [link](https://arxiv.org/abs/1912.11882) 
+ - Paper 1: [link](https://arxiv.org/abs/1912.11882) 
 
-  Paper 2: [link](https://arxiv.org/abs/2106.06425) 
+ - Paper 2: [link](https://arxiv.org/abs/2106.06425) 
 
 Sadly, I do not have much in my Github; I mostly code for a living, not exactly living to code. 
