@@ -2,7 +2,7 @@ Hello, I am Pedro Rodrigues. I hold a master's degree in physical engineering fr
 
 I currently work as a machine learning researcher at the DKFZ, focusing mainly on generative AI through diffusion probabilistic models.  
 
-I am a machine learning aficionado who is missing physics in his life, probably some sort of Stockholm syndrome; soon, I will have another publication in my GitHub focused on generative AI, and with that, my personal goal set around April 2022 would have been done.  
+I am a machine learning aficionado who is missing physics in his life, probably some sort of Stockholm syndrome; soon, I will have another publication in my GitHub focused on generative AI, and with that, my personal goal set around May 2022 would have been done.  
 
 When I was employed as a data scientist, I focused on NLP for market insights with large partners that I should not mention. 
 
