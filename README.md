@@ -12,4 +12,4 @@ When I studied at Aveiro, I became a published author in particle physics.
 
  - Paper 2: [link](https://arxiv.org/abs/2106.06425) 
 
-Sadly, I do not have much in my Github; I mostly code for a living, not exactly living to code. 
+Sadly, I do not have much in my Github;
