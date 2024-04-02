@@ -10,6 +10,8 @@ When I studied at Aveiro, I became a published author in particle physics.
   
  - Paper 1: [link](https://arxiv.org/abs/1912.11882) 
 
- - Paper 2: [link](https://arxiv.org/abs/2106.06425) 
+ - Paper 2: [link](https://arxiv.org/abs/2106.06425)
+
+ - Paper 3: [link](https://www.mdpi.com/2072-6694/16/2/415)
 
 Sadly, I do not have much in my Github; Sorry about that. 
