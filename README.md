@@ -1,4 +1,4 @@
-Hello, I am Pedro Rodrigues. I hold a master's degree in physical engineering from Aveiro University in sunny old Portugal, where I was born and raised. 
+Hello, I am Pedro Rodrigues. I hold a master's degree in physical engineering from Aveiro University in sunny old Portugal.
 
 I currently work as a machine learning researcher at the DKFZ, focusing mainly on generative AI through diffusion probabilistic models.  
 
